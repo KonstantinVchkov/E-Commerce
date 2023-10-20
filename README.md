@@ -16,5 +16,5 @@ This application is a culmination of modern web development technologies, focusi
 6.React-Router-Dom: DOM bindings for React Router.
 # Setup
 1.Clone the repository: git clone
-2.Navigate to the project directory: cd real-projects,than use git checkout and the name of the branch e-commerce-project-ReactJs,than enter the starter folder.
+2.Navigate to the project directory: cd E-Commerce
 3.Use Npm Install and than Npm start.
